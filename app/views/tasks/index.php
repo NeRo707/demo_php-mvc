@@ -122,7 +122,7 @@
     <thead>
       <tr>
         <th scope="col">Task</th>
-        <th scope="col">Completed</th>
+        <th scope="col">Status</th>
       </tr>
     </thead>
     <tbody>
