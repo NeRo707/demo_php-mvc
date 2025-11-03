@@ -135,6 +135,9 @@
     </tbody>
   </table>
   <button>Add Task</button>
+  <button>Delete Task</button>
+  <button>Delete Task</button>
+  <button>Delete Task</button>
 </body>
 
 </html>
