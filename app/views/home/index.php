@@ -17,6 +17,6 @@
         <a href="/api/tasks">API</a>
     </nav>
     <p>This is a basic MVC application with Composer autoloading.</p>
-    <p>Click on <strong>Tasks</strong> to see the task list!</p>
+    <p>Click on <strong>Tasks</strong> to see the task list!(t777t)</p>
 </body>
 </html>
