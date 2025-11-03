@@ -134,6 +134,7 @@
       <?php endforeach; ?>
     </tbody>
   </table>
+  <button>Add Task</button>
 </body>
 
 </html>
